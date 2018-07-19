@@ -3,7 +3,7 @@
 		<title>Test Page</title>
 	</head>
 	<body style="background-color:red;">
-		<p>Hello SDET- you are the future of AQE</p>
+		<p>This has been an awesome training for CICD- Agreed ?</p>
 		<input type="text" id="myText" value="">
 						<button onclick="myFunction()">Click Here</button>		
 						<p id="demo"></p>
